@@ -2,8 +2,11 @@
 
 Welcome to my Repos
 
-- 🔭 I’m currently working on ... this is a test1
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a few projects, contact me for more details
+
+Cheers!
+
+Dan
 
 <!--
 **danregis/danregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
