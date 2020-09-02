@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... this is a test1
-
+- 🤔 I’m looking for help with ...
 
 <!--
 **danregis/danregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
