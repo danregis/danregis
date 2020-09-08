@@ -10,11 +10,11 @@ My background includes numerous positions in IT and Physical Security as team le
 
 In addition, I have a  deep-rooted experience with such technologies as computers (specializing in Linux and open source software), electronics, communications (installation and repair, even in difficult terrain), and maintains an Amateur Radio License (VE2DRG). I am fluent in French, English and Spanish, and I earned a Bachelor’s degree in Computer Science from the University of Sherbrooke.
 
-I’m always open to new ideas projects, just contact me
+I’m always open to new ideas projects, don't be shy; just contact me!
 
 Cheers!
 
-Dan
+### Dan
 
 People and companies I have worked for:
 
