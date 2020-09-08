@@ -4,7 +4,7 @@
 
 ### BIO
 
-I started coding when I was younger with Basic and applescript, I created my first app called  ‘netscape sweeper’.  It was basic and simple and would wipe the cache of netscape, something unheard of at the time!  I sold that piece of code to an american company and made a little money;  that was only the start…
+I started coding when I was younger with Basic and applescript, I created my first app called  ‘netscape sweeper’.  It was basic and simple and would wipe the cache of netscape, something unheard of at the time!  I sold that piece of code to an american company and made a little money;  and so it began…
 
 My background includes numerous positions in IT and Physical Security as team leader or project manager. Comprised as: work for the SQ Communications (Sureté du Québec), many years as a national park ranger, Canadian Communications specialist for the Canadian forces, overseas consulate representative for the Canadian government, and a First Responder and trained volunteer fireman.
 
@@ -24,7 +24,15 @@ Stuff I use and know:
 
 Debian, Ubuntu, Arch Linux, Puppet, Laravel, Zabbix, QT, Python, PHP, node.js.
 
-Events I attended:
+Events and Volunteer work I have attended:
+
+- Canadian forces affilate radio system
+- Startup Weekend
+- Civil Air Search and Rescue
+- Amateur Radio Field Day
+- Croix Rouge Canadienne
+
+Accomplishments:
 
 
 
