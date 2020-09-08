@@ -24,7 +24,7 @@ Stuff I use and know:
 
 Debian, Ubuntu, Arch Linux, Puppet, Laravel, Zabbix, QT, Python, PHP, node.js.
 
-
+Events I attended:
 
 
 
