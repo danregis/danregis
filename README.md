@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Repos !!
+### Welcome to my Repos !!
 
 ### BIO
 
@@ -15,6 +15,18 @@ I’m always open to new ideas projects, just contact me
 Cheers!
 
 Dan
+
+People and companies I have worked for:
+
+Gouv. du Quebec, CAF (communications), Sepaq, Wolters Kluwers, SGF, Sûreté du Québec, CGI, BUF.
+
+Stuff I use and know:
+
+Debian, Ubuntu, Arch Linux, Puppet, Laravel, Zabbix, QT, Python, PHP, node.js.
+
+
+
+
 
 <!--
 **danregis/danregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
