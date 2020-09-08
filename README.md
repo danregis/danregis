@@ -22,7 +22,7 @@ Gouv. du Quebec, CAF (communications), Sepaq, Wolters Kluwers, SGF, Sûreté du 
 
 Stuff I use and know:
 
-Debian, Ubuntu, Arch Linux, Puppet, Laravel, Zabbix, QT, Python, PHP, node.js.
+Debian, Ubuntu, Arch Linux, Puppet, Laravel, Zabbix, QT, Python, PHP, Node.js, Docker, Bash
 
 Events and Volunteer work I have attended:
 
