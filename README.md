@@ -30,7 +30,7 @@ Events and Volunteer work I have attended:
 - Startup Weekend
 - Civil Air Search and Rescue
 - Amateur Radio Field Day
-- Croix Rouge Canadienne
+- Canadian Red Cross
 
 Accomplishments:
 
