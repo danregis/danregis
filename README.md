@@ -32,12 +32,11 @@ Events and Volunteer work I have attended:
 - Amateur Radio Field Day
 - Canadian Red Cross
 
-- Accomplishments:
-
 
 
 <!--
 **danregis/danregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Accomplishments:
 
 Here are some ideas to get you started:
 
