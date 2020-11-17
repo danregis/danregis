@@ -32,7 +32,7 @@ Events and Volunteer work I have attended:
 - Amateur Radio Field Day
 - Canadian Red Cross
 
-Accomplishments:
+- Accomplishments:
 
 
 
