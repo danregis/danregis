@@ -18,7 +18,7 @@ Cheers!
 
 People and companies I have worked for:
 
-Gouv. du Quebec, Gouv. du Canada, CAF (communications), Sepaq, Wolters Kluwers, SGF, Sûreté du Québec, CGI, BUF.
+Gouv. du Quebec, Gouv. du Canada, CAF (communications), Sepaq, Wolters Kluwers, SGF, Sûreté du Québec, CGI, BUF, Mels-sutdios.
 
 Stuff I use and know:
 
