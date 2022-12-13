@@ -24,7 +24,7 @@ Stuff I use and know:
 
 Debian, Ubuntu, Arch Linux, Puppet, Laravel, Zabbix, QT, Python, PHP, Node.js, Docker, Bash, Ansible, CentOs.
 
-Qumulo, Quantum, Isilon, Dell Poweredge
+Qumulo, Quantum, Isilon, Dell Poweredge, SuperMicro
 
 Events and Volunteer work I have attended:
 
