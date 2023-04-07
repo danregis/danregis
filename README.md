@@ -1,57 +1,60 @@
-### Hi there 👋
+# Hi there! 👋
 
-### Welcome to my Repos !!
+Welcome to my repository collection!
 
-### BIO
+## About Me
 
-I started coding when I was younger with Basic and applescript, I created my first app called  ‘netscape sweeper’.  It was basic and simple and would wipe the cache of netscape, something unheard of at the time!  I sold that piece of code to an american company and made a little money;  and so it began…
+My journey in coding began at a young age, dabbling in Basic and AppleScript. I developed my first application, 'Netscape Sweeper,' which was a simple yet innovative tool for clearing Netscape's cache. This creation was eventually sold to an American company, marking the start of my passion for coding.
 
-My background includes numerous positions in IT and Physical Security as team leader or project manager. Comprised as: work for the SQ Communications (Sureté du Québec), many years as a national park ranger, Canadian Communications specialist for the Canadian forces, overseas consulate representative for the Canadian government, and a First Responder and trained volunteer fireman.
+Throughout my career, I've held various IT and Physical Security roles, including team leader and project manager positions. My experience spans working with SQ Communications (Sûreté du Québec), serving as a National Park Ranger, specializing in communications for the Canadian Forces, representing the Canadian government at overseas consulates, and volunteering as a First Responder and trained firefighter.
 
-In addition, I have a  deep-rooted experience with such technologies as computers (specializing in Linux and open source software), electronics, communications (installation and repair, even in difficult terrain), and maintains an Amateur Radio License (VE2DRG). I am fluent in French, English and Spanish, and I earned a Bachelor’s degree in Computer Science from the University of Sherbrooke.
+As a tech enthusiast, I'm well-versed in computers (with a focus on Linux and open-source software), electronics, and communications (including installation and repair in challenging environments). I hold an Amateur Radio License (VE2DRG) and am fluent in French, English, and Spanish. I obtained a Bachelor's degree in Computer Science from the University of Sherbrooke.
 
-I’m always open to new ideas projects, don't be shy; just contact me!
+Feel free to reach out if you have any exciting ideas or projects in mind!
 
-Cheers!
+Best regards,
 
-### Dan
+Dan
 
-People and companies I have worked for:
+## Employment History
 
-Gouv. du Quebec, Gouv. du Canada, CAF (communications), Sepaq, Wolters Kluwers, SGF, Sûreté du Québec, CGI, BUF, Mels-Studios.
+- Gouv. du Quebec
+- Gouv. du Canada
+- CAF (communications)
+- Sepaq
+- Wolters Kluwers
+- SGF
+- Sûreté du Québec
+- CGI
+- BUF
+- Mels-Studios
 
-Stuff I use and know:
+## Technical Skills
 
-Debian, Ubuntu, Arch Linux, Puppet, Laravel, Zabbix, QT, Python, PHP, Node.js, Docker, Bash, Ansible, CentOs.
+- Debian
+- Ubuntu
+- Arch Linux
+- Puppet
+- Laravel
+- Zabbix
+- QT
+- Python
+- PHP
+- Node.js
+- Docker
+- Bash
+- Ansible
+- CentOS
+- Qumulo
+- Quantum
+- Isilon
+- Dell Poweredge
+- SuperMicro
 
-Qumulo, Quantum, Isilon, Dell Poweredge, SuperMicro
+## Volunteer Work and Events
 
-Events and Volunteer work I have attended:
-
-- Canadian forces affilate radio system
+- Canadian Forces Affiliate Radio System
 - Startup Weekend
 - Civil Air Search and Rescue
 - Amateur Radio Field Day
 - Canadian Red Cross
-
-
-
-<!--
-**danregis/danregis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- Accomplishments:
-
-Here are some ideas to get you started:
-
-
-this is a test1
--this is also a test
-
-- 🔭 I’m currently working on ... this is a test1
-- 🌱 I’m currently learning ... this is a test 2
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
