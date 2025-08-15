@@ -1,60 +1,39 @@
-# Hi there! 👋
+# Hi, I’m Dan Regis 👋
 
-Welcome to my repository collection!
+## 🚀 About Me
+I’m an IT leader and open-source advocate with 25+ years of experience spanning **system administration, DevOps, electronics, and secure communications**.  
+My tech journey started young — writing BASIC and AppleScript, and creating my first app, *Netscape Sweeper*, which was later acquired by an American company. That early success lit the spark for a lifelong passion for building, problem-solving, and innovating.
 
-## About Me
+## 💼 Career Highlights
+- **MELS Studios** – Technology Director | Overseeing complex media & virtual production infrastructure
+- **Government of Quebec & Canada** – IT & Communications roles, including **Sûreté du Québec** and overseas consulates
+- **Canadian Armed Forces** – Communications specialist in challenging operational environments
+- **Sepaq, Wolters Kluwers, CGI, BUF** – Delivered projects ranging from infrastructure deployments to systems modernization
 
-My journey in coding began at a young age, dabbling in BASIC and AppleScript. I developed my first application, 'Netscape Sweeper,' which was a simple yet innovative tool for clearing Netscape's cache. This creation was eventually sold to an American company, marking the start of my passion for coding.
+## 🛠 Technical Skills
+**Systems & OS:** Debian, Ubuntu, Arch Linux, CentOS  
+**Automation & DevOps:** Docker, Ansible, Puppet, Bash, Zabbix  
+**Programming & Frameworks:** Python, PHP, Node.js, Laravel, QT  
+**Infrastructure:** Dell PowerEdge, SuperMicro, Qumulo, Quantum, Isilon  
+**Specialties:** Virtual production workflows, physical & network security
 
-Throughout my career, I've held various IT and physical security roles, including team leader and project manager positions. My experience spans working with SQ Communications (Sûreté du Québec), serving as a National Park Ranger, specializing in communications for the Canadian Forces, representing the Canadian government at overseas consulates, and volunteering as a First Responder and trained firefighter.
+## 🌍 Languages
+- French (native)  
+- English (fluent)  
+- Spanish (fluent)  
 
-As a tech enthusiast, I'm well-versed in computers (with a focus on Linux and open-source software), electronics, and communications (including installation and repair in challenging environments). I hold an Amateur Radio License (VE2DRG) and am fluent in French, English, and Spanish. I obtained a Bachelor's degree in Computer Science from the University of Sherbrooke.
+## 🎯 Volunteer & Community
+- **Canadian Forces Affiliate Radio System (CFARS)**
+- **Amateur Radio** (VE2DRG)
+- **Canadian Red Cross** – First Responder & Firefighter
+- **Startup Weekend**
+- **Civil Air Search and Rescue**
+- **Amateur Radio Field Day**
 
-Feel free to reach out if you have any exciting ideas or projects in mind!
+## 📫 Let’s Connect
+- **LinkedIn:** [linkedin.com/in/dan-regis-b83030323](https://www.linkedin.com/in/dan-regis-b83030323/)
+- **Email:** *(your email here)*
 
-Best regards,
+---
 
-Dan
-
-## Employment History
-
-- Gouv. du Quebec
-- Gouv. du Canada
-- CAF (communications)
-- Sepaq
-- Wolters Kluwers
-- SGF
-- Sûreté du Québec
-- CGI
-- BUF
-- Mels-Studios
-
-## Technical Skills
-
-- Debian
-- Ubuntu
-- Arch Linux
-- Puppet
-- Laravel
-- Zabbix
-- QT
-- Python
-- PHP
-- Node.js
-- Docker
-- Bash
-- Ansible
-- CentOS
-- Qumulo
-- Quantum
-- Isilon
-- Dell Poweredge
-- SuperMicro
-
-## Volunteer Work and Events
-
-- Canadian Forces Affiliate Radio System
-- Startup Weekend
-- Civil Air Search and Rescue
-- Amateur Radio Field Day
-- Canadian Red Cross
+💡 *Always open to collaboration on open-source projects, DevOps automation, and innovative IT infrastructure solutions.*
