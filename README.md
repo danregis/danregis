@@ -32,7 +32,7 @@ My tech journey started young — writing BASIC and AppleScript, and creating my
 
 ## 📫 Let’s Connect
 - **LinkedIn:** [linkedin.com/in/dan-regis-b83030323](https://www.linkedin.com/in/dan-regis-b83030323/)
-- **Email:** *(your email here)*
+- **Email:** *dan.regis@outlook.com*
 
 ---
 
